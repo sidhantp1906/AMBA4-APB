@@ -1,2 +1,2 @@
 # AMBA4-APB
-Advanced Pheripheral Bus design using verilog HDL
+Advanced Peripheral Bus design using verilog HDL
